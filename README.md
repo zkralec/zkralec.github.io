@@ -1,4 +1,4 @@
-<h2>Privacy Policy – Mission Control SMS Notifications</h2>
+<h1>Privacy Policy – Mission Control SMS Notifications</h1>
 
 <h3>Information Collected:</h3>
 
@@ -16,7 +16,7 @@
 - Twilio is used solely as an SMS delivery provider.
 - This system does not collect data from the public and does not support external user accounts.
 
-<h2>Terms and Conditions – Mission Control SMS Notifications</h2>
+<h1>Terms and Conditions – Mission Control SMS Notifications</h1>
 
 <h3>Description:</h3>
 
