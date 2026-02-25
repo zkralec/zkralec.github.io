@@ -32,11 +32,11 @@
 
 <h3>Opt-Out:</h3>
 
-- Reply STOP at any time to opt out of SMS messages.
+- Reply **STOP** at any time to opt out of SMS messages.
 
 <h3>Help:</h3>
 
-- Reply HELP for assistance.
+- Reply **HELP** for assistance.
 
 <h2>Extras</h2>
 
