@@ -1,18 +1,18 @@
-###Privacy Policy – Mission Control SMS Notifications
+<h2>Privacy Policy – Mission Control SMS Notifications</h2>
 
 This application is a personal automation system operated by the developer.
 
-#Information Collected:
+<h3>Information Collected:</h3>
 
 - The developer’s own phone number
 - Message delivery metadata from Twilio (message SID, delivery status)
 
-#How Information Is Used:
+<h3>How Information Is Used:</h3>
 
 - To send system-generated notifications related to automation tasks.
 - To confirm delivery status of messages.
 
-#Data Sharing:
+<h3>Data Sharing:</h3>
 
 - No personal data is sold, rented, or shared with third parties.
 - Twilio is used solely as an SMS delivery provider.
